@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @adityasharma-sudo
 - email: aditya.sharma@icts.res.in
 - website: https://www.icts.res.in/people/aditya-kumar-sharma
