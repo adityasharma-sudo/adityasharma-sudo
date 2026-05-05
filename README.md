@@ -1,2 +1,3 @@
 - email: aditya.sharma@icts.res.in
+- email: aditya.sharma@uib.es
 - website: https://www.icts.res.in/people/aditya-kumar-sharma
